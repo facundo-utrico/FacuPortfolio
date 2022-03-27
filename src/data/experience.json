@@ -2,7 +2,7 @@
   "experience": [
     {
       "id": 0,
-      "link": "https://www.8secondz.com/",
+      "link": "https://github.com/facundo-utrico/facu-dashboard",
       "company": "Web Application",
       "title": "Web Dashboard for FiveM Servers.",
       "dateFrom": "September 2021",
@@ -11,7 +11,7 @@
         "Web Administration dashboard for FiveM server owners. ",
         "Responsive design using Bootstrap."
       ],
-      "stack": ["PHP", "MYSQL", "Bootstrap", "Lua"],
+      "stack": ["PHP", "MYSQL", "Bootstrap"],
       "logoheight": 80,
       "colourPrimary": "linear-gradient(to bottom, #f4592b, #f4592b)",
       "colourSecondary": "linear-gradient(to bottom, #f22325, #f22325)"
