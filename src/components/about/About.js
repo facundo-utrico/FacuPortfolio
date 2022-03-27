@@ -58,7 +58,7 @@ const About = () => {
             </div>
             <p>
               Since 2018 - I've spent my time seeking and learning new
-              technologies. It all started with my passion for video games, I learned to program in LUA to create a server in FiveM and then I met the beautiful world of IT and started my career as a freelancer in{' '}
+              technologies. It all started with my passion for video games, I started programming in lua to enter the world of GTA V and FiveM. Then I met the beautiful world of IT and started my career as a freelancer in{' '}
               <Link
                 className="textLink"
                 to="Fiverr"
