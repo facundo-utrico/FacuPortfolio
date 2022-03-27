@@ -21,7 +21,7 @@ const Home = () => {
           <Fade bottom distance="40px">
             <img
               className="profile"
-              alt="m.jigalin profile"
+              alt="m.facundo profile"
               src={profile}
               onLoad={() => setImageLoaded(true)}
             />
