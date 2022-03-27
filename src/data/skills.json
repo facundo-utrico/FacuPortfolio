@@ -18,10 +18,10 @@
     { "id": 3, "skillName": "Javascript", "amount": "85" },
     {
       "id": 4,
-      "skillName": "Node.js",
-      "amount": "60"
+      "skillName": "Bootstrap",
+      "amount": "80"
     },
-    { "id": 7, "skillName": "Bootstrap", "amount": "80" },
+    { "id": 7, "skillName": "Node.js", "amount": "60" },
     {
       "id": 5,
       "skillName": "React,js",
