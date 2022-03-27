@@ -12,26 +12,26 @@
     },
     {
       "id": 2,
-      "skillName": "Node.js",
-      "amount": "90"
+      "skillName": "PHP",
+      "amount": "85"
     },
     { "id": 3, "skillName": "Javascript", "amount": "85" },
     {
       "id": 4,
-      "skillName": "PHP",
-      "amount": "80"
+      "skillName": "Node.js",
+      "amount": "60"
     },
-    { "id": 7, "skillName": "AWS", "amount": "80" },
+    { "id": 7, "skillName": "Bootstrap", "amount": "80" },
     {
       "id": 5,
       "skillName": "React,js",
-      "amount": "75"
+      "amount": "55"
     },
-    { "id": 6, "skillName": "MongoDB", "amount": "70" },
+    { "id": 6, "skillName": "MongoDB", "amount": "45" },
     {
       "id": 8,
-      "skillName": "Frontend",
-      "amount": "60"
+      "skillName": "AWS",
+      "amount": "30"
     }
   ]
 }
