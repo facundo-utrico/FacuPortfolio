@@ -1,0 +1,52 @@
+{
+  "experience": [
+    {
+      "id": 0,
+      "link": "https://www.8secondz.com/",
+      "company": "Web Application",
+      "title": "Web Dashboard for FiveM Servers.",
+      "dateFrom": "September 2021",
+      "dateTo": "December 2021",
+      "info": [
+        "Web Administration dashboard for FiveM server owners. ",
+        "Responsive design using Bootstrap."
+      ],
+      "stack": ["PHP", "MYSQL", "Bootstrap", "Lua"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #f4592b, #f4592b)",
+      "colourSecondary": "linear-gradient(to bottom, #f22325, #f22325)"
+    },
+    {
+      "id": 1,
+      "link": "https://www.facundo-utrico.com",
+      "company": "MyApp",
+      "title": "My Start Up",
+      "dateFrom": "",
+      "dateTo": "Current",
+      "info": [
+        "Developing API for real-time orders in restaurants.",
+        "Web design & development of APIS using MERN Stack"
+      ],
+      "stack": ["Node", "React.JS", "Bootstrap", "MongoDB", "Express.JS"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #9fc5e8, #9fc5e8)",
+      "colourSecondary": "linear-gradient(to bottom, #9fc5e8, #9fc5e8)"
+    },
+    {
+      "id": 2,
+      "link": "https://www.fiverr.com/facundoutrico",
+      "company": "Fiverr",
+      "title": "Freelance Software Developer",
+      "dateFrom": "2020",
+      "dateTo": "Current",
+      "info": [
+        "Working as Freelance Software Developer has led to many exciting projects with incredible customers.",
+        "FiveM development, web design, discord.js."
+      ],
+      "stack": ["Lua", "MYSQL", "PHP", "HTML/CSS", "Responsive Design", "Git & Github"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #00C560, #00C560)",
+      "colourSecondary": "linear-gradient(to bottom, #fff, #ffff)"
+    }
+  ]
+}

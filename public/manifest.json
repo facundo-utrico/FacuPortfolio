@@ -1,0 +1,9 @@
+{
+  "short_name": "Facundo Utrico",
+  "name": "Facundo Utrico Landing Page",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
